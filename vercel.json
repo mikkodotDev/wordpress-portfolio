@@ -2,7 +2,7 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "outputDirectory": "dist",
-  "env": [],
+  "env": {},
   "rewrites": [
     {
       "source": "/(.*)",
