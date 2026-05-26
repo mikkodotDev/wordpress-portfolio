@@ -1,0 +1,93 @@
+[
+  {
+    "id": "obsidian-strength",
+    "category": "Fitness",
+    "title": "Obsidian Strenght - Gym Website",
+    "description": "A modern fitness website designed for gyms and personal trainers featuring responsive layouts, pricing sections, and strong branding.",
+    "fullDescription": "This Gym Website project showcases a complete fitness center online presence with membership plans, trainer profiles, class schedules, and contact forms. Built with responsive design principles to work seamlessly on all devices. The site features an intuitive navigation structure, compelling imagery, and clear call-to-action buttons to drive member signups and class registrations.",
+    "tags": [
+      "Responsive Design",
+      "Pricing Tables",
+      "CTA Sections",
+      "Mobile Optimized",
+      "Elementor",
+      "WooCommerce"
+    ],
+    "tools": ["WordPress", "Elementor", "WooCommerce", "liteSpeed Cache", "Elementor Pro"],
+    "designGoals": [
+      "Create a professional fitness center brand presence",
+      "Showcase membership plans and pricing clearly",
+      "Build trust with trainer profiles and testimonials",
+      "Optimize for mobile fitness enthusiast browsing"
+    ],
+    "gradient": "from-blue-600 to-indigo-700",
+    "emoji": "🏋️",
+    "accent": "blue",
+    "image": "/images/project-images/Project-ObsidianStrenght/frontpage.png",
+    "galleryImages": [
+      "/images/project-images/Project-ObsidianStrenght/frontpage.png",
+      "/images/project-images/Project-ObsidianStrenght/1.png",
+      "/images/project-images/Project-ObsidianStrenght/2.png",
+      "/images/project-images/Project-ObsidianStrenght/3.png",
+      "/images/project-images/Project-ObsidianStrenght/4.png"
+    ]
+  },
+  {
+    "id": "ecommerce-store",
+    "category": "Fashion | E-commerce",
+    "title": "Ethereal - Fashion Store Concept",
+    "description": "Ethereal is a fashion-focused eCommerce concept designed to showcase modern streetwear products with a clean shopping experience, responsive layouts, and visually engaging product sections.",
+    "fullDescription": "This eCommerce Store features a complete online shopping experience with product filtering, shopping cart functionality, secure checkout, and customer reviews. Optimized for conversions with strategic call-to-action buttons throughout. The design emphasizes product showcase with high-quality images, detailed product descriptions, customer testimonials, and a seamless checkout process to maximize sales.",
+    "tags": [
+      "Product Showcase",
+      "Shopping UI",
+      "Responsive Layout",
+      "Modern Store Design"
+    ],
+    "tools": ["WordPress", "WooCommerce", "Elementor"],
+    "designGoals": [
+      "Create a modern fashion storefront",
+      "Improve product visibility and showcase",
+      "Keep navigation minimal and clean",
+      "Optimize layout for mobile shopping"
+    ],
+    "gradient": "from-violet-600 to-purple-700",
+    "emoji": "🛒",
+    "accent": "violet",
+    "image": "/images/project-images/Project-Ethereal/frontpage.png",
+    "galleryImages": [
+      "/images/project-images/Project-Ethereal/frontpage.png",
+      "/images/project-images/Project-Ethereal/2.png",
+      "/images/project-images/Project-Ethereal/3.png"
+    ]
+  },
+  {
+    "id": "architect-ecommerce",
+    "category": "E-commerce",
+    "title": "Architect eCommerce Store",
+    "description": "A modern WooCommerce-inspired online store with product showcases, category sections, and conversion-focused layouts.",
+    "fullDescription": "This eCommerce Store features a complete online shopping experience with product filtering, shopping cart functionality, secure checkout, and customer reviews. Optimized for conversions with strategic call-to-action buttons throughout. The design emphasizes product showcase with high-quality images, detailed product descriptions, customer testimonials, and a seamless checkout process to maximize sales.",
+    "tags": [
+      "WooCommerce Store Design",
+      "Responsive Product Catalog",
+      "Mobile-Optimized Layout",
+      "Conversion-Focused UI",
+      "Modern Fashion Branding"
+    ],
+    "tools": ["WordPress", "Elementor", "WooCommerce", "Custom CSS"],
+    "designGoals": [
+      "Build a high-converting product showcase",
+      "Simplify the checkout process",
+      "Highlight bestselling items effectively",
+      "Create a cohesive brand shopping experience"
+    ],
+    "gradient": "from-violet-600 to-purple-700",
+    "emoji": "🛒",
+    "accent": "violet",
+    "image": "/images/project-images/Project-Architect/frontpage.png",
+    "galleryImages": [
+      "/images/project-images/Project-Architect/frontpage.png",
+      "/images/project-images/Project-Architect/1.png"
+    ]
+  }
+]
